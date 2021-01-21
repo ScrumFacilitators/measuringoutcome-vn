@@ -8,8 +8,6 @@ Trò chơi này được xây dựng dựa trên Evidence Based Management (EBM)
 
 ## Các KVM không cứng nhắc
 
-Keep in mind that the KVMs are not set in stone. These are measures suggested from the EBM framework. During the game, you’ll have opportunities to reflect on these KVMs, discuss and come up with new valuable KVMs yourself. 
-
 Hãy nhớ rằng các KVMs không cố định, nó chỉ là gợi ý cho việc đo lường thế nào trong EBM. Thông qua trò chơi, bạn sẽ có cơ hội để trải nghiệm qua các KVM, thảo luận và đưa ra những KVM mới khác nhau mà bạn nghĩ rằng nó có giá trị với bạn.
 
 ## Làm cho cuộc sống dễ dàng hơn
