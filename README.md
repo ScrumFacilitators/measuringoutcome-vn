@@ -31,6 +31,10 @@ Measuring Outcome by Scrum Facilitators is licensed under [CC BY-NC-SA](https://
 
 Có thể có trường hợp bạn có thể thiết kế một phiên bản tốt hơn. Nếu có điều đó, bạn cứ thoải mái làm nó. Chúng tôi rất vui nếu bạn giúp chúng tôi có thể học hỏi thêm. 👍 
 
+## Credits
+Sản phẩm này không chỉ được hoàn thiện bởi Scrum Facilitators. Mà nó còn được sự hỗ trợ từ cộng đồng.
+Xin cảm ơn Scrumviet đã giúp đỡ!
+
 ***
 
 Chúc Vui Vẻ!
