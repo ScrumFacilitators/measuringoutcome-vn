@@ -24,7 +24,8 @@ Dùng phiên bản đã phát hành (**Release**) để có được bản cập
 
 - [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Translation in dutch
 - [Medición del Resultado](https://github.com/ScrumFacilitators/measuringoutcome-es/releases/latest) (Español) / Translation in spanish
-- [衡量結果](https://github.com/ScrumFacilitators/measuringoutcome-cht/releases/latest) (中文) / Translation in Chinese
+- [衡量結果](https://github.com/ScrumFacilitators/measuringoutcome-cht/releases/latest) (中文) / Translation in Traditional Chinese
+- [Đo Lường Giá trị](https://github.com/ScrumFacilitators/measuringoutcome-vn/releases/latest) (Tiếng Việt) / Translation in Vietnamese
 
 ## License
 
