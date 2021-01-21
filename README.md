@@ -1,24 +1,26 @@
-# Measuring Outcome
+# ĐO LƯỜNG GIÁ TRị
 
-**Hi Scrum Facilitators!**
+**Chào các Scrum Facilitator!**
 
-Welcome to the Measuring Outcome wiki.
+Chào mừng bạn đến với Measuring Outcome wiki.
 
-This game is based on Evidence-Based Management (EBM). EBM is an empirical framework which organizations can use to help measure the (perceived) product value and the way they deliver their product(s). The measurements can be inspected to help maximize product value and improve the way of working.
+Trò chơi này được xây dựng dựa trên Evidence Based Management (EBM), EBM là một khung làm việc, mà các tổ chức có thể sử dụng để đo lường giá trị sản phẩm, và đo lường cách mà sản phẩm đó được xây dựng. Việc đo lường có thể được kiểm tra để giúp gia tăng giá trị sản phẩm và cải tiến trong cách làm việc.
 
-## The KVMs are not set in stone
+## Các KVM không cứng nhắc
 
 Keep in mind that the KVMs are not set in stone. These are measures suggested from the EBM framework. During the game, you’ll have opportunities to reflect on these KVMs, discuss and come up with new valuable KVMs yourself. 
 
-## To make your life easier
+Hãy nhớ rằng các KVMs không cố định, nó chỉ là gợi ý cho việc đo lường thế nào trong EBM. Thông qua trò chơi, bạn sẽ có cơ hội để trải nghiệm qua các KVM, thảo luận và đưa ra những KVM mới khác nhau mà bạn nghĩ rằng nó có giá trị với bạn.
 
-To make life easier, we’ve included a manual on how to facilitate this exercise and a Cheat Sheet where all the Key Value Measures (KVMs) are explained so relax... Now you can focus totally on the exercise as a facilitator. 
+## Làm cho cuộc sống dễ dàng hơn
 
-## Releases
+Làm cho cuộc sống dễ dàng hơn, chúng tôi đã kèm theo hướng dẫn làm sao để tổ chức và hướng dẫn trò chơi, và những thông tin đầy đủ cho Key Value Measures (KVMs)... nên bạn chỉ cần thư giãn và tập trung vào các hoạt động và tổ chức trò chơi.
 
-Use the **Release** to get the most stable and updated version of the Measuring Outcome Exercise. We’ll promise to keep it updated ;-)
+## Các bạn cập nhật
 
-## Other languages
+Dùng phiên bản đã phát hành (**Release**) để có được bản cập nhật mới nhất của trò chơi "ĐO LƯỜNG GIÁ TRỊ", Chúng tôi hứa sẽ luôn cập nhật phiên bản mới nhất.
+
+## Ngôn ngữ khác:
 
 - [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Translation in dutch
 - [Medición del Resultado](https://github.com/ScrumFacilitators/measuringoutcome-es/releases/latest) (Español) / Translation in spanish
@@ -28,12 +30,12 @@ Use the **Release** to get the most stable and updated version of the Measuring 
 
 Measuring Outcome by Scrum Facilitators is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). All the materials in this repository are subject to this license. See the above link for a human readable summary and the included LICENSE.md file for the full license text.
 
-*There is a 0,000001% chance that you will come up with a better design. If this is the case, do feel free to change it. We would love it if you could mention us 👍 
+Có thể có trường hợp bạn có thể thiết kế một phiên bản tốt hơn. Nếu có điều đó, bạn cứ thoải mái làm nó. Chúng tôi rất vui nếu bạn giúp chúng tôi có thể học hỏi thêm. 👍 
 
 ***
 
-Have fun!
-Greetings from the Scrum Facilitators crew
+Chúc Vui Vẻ!
+Lời chào từ nhóm Scrum Facilitators
 
 www.scrumfacilitators.nl
 
