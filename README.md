@@ -33,7 +33,7 @@ Có thể có trường hợp bạn có thể thiết kế một phiên bản t�
 
 ## Credits
 Sản phẩm này không chỉ được hoàn thiện bởi Scrum Facilitators. Mà nó còn được sự hỗ trợ từ cộng đồng.
-Xin cảm ơn Scrumviet đã giúp đỡ!
+Xin cảm ơn [Scrumviet](www.scrumviet.org) đã giúp đỡ!
 
 ***
 
